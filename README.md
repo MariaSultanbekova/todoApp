@@ -1,7 +1,6 @@
 ## Hi! It's my first react project:
 
-![image](https://github.com/MariaSultanbekova/todoApp/assets/109607272/1e5269f6-8a9c-49bf-bfe9-095eb549c0a5)
-
+![image](https://github.com/MariaSultanbekova/todoApp/assets/109607272/f666dc67-d76d-4ea3-9ee9-00b86daabbfb)
 
 ## Available Scripts
 
